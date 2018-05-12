@@ -1,4 +1,8 @@
 _repo: Kertomuksia-Suomen-historiasta-2-Katolinen-aikakausi_49094
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Krohn, Julius
@@ -13,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4607
     wikipedia: http://fi.wikipedia.org/wiki/Julius_Krohn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49094#Kertomuksia-Suomen-historiasta-2-Katolinen-aikakausi
 gutenberg_issued: '2015-05-31'
 gutenberg_type: Text
 identifiers:
